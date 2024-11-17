@@ -75,9 +75,6 @@
   font-size: 20px;
   cursor: pointer;
 }
-.counter span {
-  margin: 0 10px;
-}
 
 .not-availability-text {
   font-weight: 500;
