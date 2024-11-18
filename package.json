@@ -8,7 +8,7 @@
   },
 
   {
-   "type": "module.js"
+   "type": "module"
  }
   "dependencies": {
     "@testing-library/jest-dom": "5.11.9",
