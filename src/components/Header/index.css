@@ -22,8 +22,8 @@
   color: #585555;
 }
 cart {
-    flex: d-flex;
-  }
+  flex: d-flex;
+}
 
 .cart-icon-container {
   position: relative;
